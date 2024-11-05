@@ -1,7 +1,7 @@
 ## Olá! Sou Verônica Martins  👋
 
 - 🔭 Graduanda de Ciência da Computação
-- 🌱 Estudando React e Typescrypt
+- 🌱 Estudando Flutter 
 - 🕹 Sou fã de jogos, livros, filmes e séries
 
 <div style="display: inline_block"><br>
