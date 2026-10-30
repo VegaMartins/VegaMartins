@@ -1,6 +1,6 @@
 ## Olá! Sou Verônica Martins  👋
 
-- 🔭 Graduanda de Ciência da Computação
+- 🔭 Graduanda em Ciência da Computação
 - 🌱 Estudando Angular 
 - 🕹 Sou fã de jogos, livros, filmes e séries
 
